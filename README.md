@@ -1,1 +1,2 @@
-# PowerBi-Dashboard-projects
+# PowerBi Hr Analytics Dashboard Project
+
